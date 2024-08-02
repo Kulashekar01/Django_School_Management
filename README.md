@@ -1,7 +1,5 @@
 # Django_School_Management
-Here's a polished README section for "How to Run" your Django project:
 
----
 
 ## How to Run
 
