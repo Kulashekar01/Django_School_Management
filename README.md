@@ -1,4 +1,4 @@
-# Django_School_Management
+# Academix - Django_School_Management
 
 
 ## How to Run
