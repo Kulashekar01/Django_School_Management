@@ -1,7 +1,7 @@
 # Academix - Django_School_Management
 
 
-## How to Run
+## How to Run 
 
 To set up and run the project, follow these steps:
 
